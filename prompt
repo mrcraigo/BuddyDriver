@@ -1,0 +1,38 @@
+Project: Buddy Driver App
+Brief: Develop the Buddy Driver App, a mobile application to help responsible individuals who consume recreational or prescription substances, such as cannabis, to log their use, analyze the potential impact on their driving abilities, and provide guidance on when they can legally drive again. The app will be based on the laws and regulations of Canberra, ACT, Australia, with expansion planned for the rest of the country. The app will integrate data from the ACT Police website, offer a rewarding system to encourage user engagement, and include resources to aid recovery and reduce substance use. A Plan B feature will provide alternatives to help users get home safely without driving themselves.
+Goals:
+Design and develop the app for both iOS and Android platforms.
+Implement advanced algorithms to analyze user inputs and predict when it would be safe to drive again.
+Leverage ACT Police data to ensure compliance with laws and regulations.
+Design a user-friendly interface and engaging user experience.
+Develop a rewarding feature system to encourage user engagement.
+Implement monetization strategies.
+Integrate Plan B options such as ride-sharing, taxi, or tow truck services.
+Provide recovery information and resources, and promote goals to reduce or quit substance use.
+Set up the project on GitHub.
+Secure initial funding, potentially through crowdsourcing, and prepare for a future IPO.
+AI Agents Roles:
+Data Scientist Agent: Gather and analyze data from the ACT Police website.
+Algorithm Engineer Agent: Develop the prediction algorithm based on the data analysis.
+Mobile App Developer Agents (iOS & Android): Develop the app incorporating the prediction algorithm.
+UX/UI Designer Agent: Design the user interface and user experience.
+Monetization & Gamification Expert Agent: Develop the monetization strategy and rewarding features.
+Quality Assurance Agent: Regularly test the app, identify bugs or issues, and work towards their resolution.
+Medical Consultant Agent: Provide insights about the effects of various substances and prescription medication on driving abilities.
+Project Manager Agent: Coordinate all AI agents, ensuring collaboration and timely progress.
+Auto-GPT Agent: Provide an interactive conversational interface within the app.
+Plan B Developer Agent: Implement the Plan B feature providing alternative ways to get home.
+Partnership & Business Development Agent: Establish partnerships with ride-sharing companies, taxi services, and tow truck providers.
+Funding & Investment Manager Agent: Prepare for crowdsourcing, secure investments, and plan for IPO.
+Government Liaison Agent: Ensure compliance with relevant laws and regulations, explore opportunities for government funding or partnerships.
+ACT Police Liaison Agent: Liaise with the ACT Police for updates or changes in law, maintain open communication, and seek potential endorsement.
+GitHub Setup Instructions:
+Clone the repository: git clone https://github.com/mrcraigo/BuddyDriver.git
+Navigate into the project directory: cd BuddyDriver
+Install necessary packages: npm install
+Start the server: npm start
+For any changes, create a new branch: git checkout -b <branch_name>
+Make your changes and commit them: git commit -m "<commit_message>"
+Push the changes to the branch: git push origin <branch_name>
+Open a Pull Request on Github.
+Following this comprehensive plan and prompt, developers can collaboratively and systematically work on developing the "Buddy Driver App", aiding responsible individuals and potentially making a significant positive societal impact.
